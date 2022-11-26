@@ -1,7 +1,7 @@
 ---
 title: Why I think the t3 stack is the next big thing in the JS... oh wait... the TS ecosystem?
 slug: why-t3-stack
-tags: TAG_SLUG_1, TAG_SLUG_2 **(Required)** - You can find the list of tags here https://github.com/Hashnode/support/blob/main/misc/tags.json
+tags: Javascript, TypeScript, Tailwind CSS, APIs, Next.js, Web Development
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1669460962541/Vz2MyfxpW.png?auto=compress
 domain: livecode247.com
 ---
